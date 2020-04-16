@@ -1,0 +1,20 @@
+Boeing
+110500
+Home Depot
+25000
+Verizon
+19000
+Disney
+12000
+Visa
+29000
+Intel
+10500
+3M
+32000
+Walgreen
+21000
+Procter & Gamble
+50000
+UnitedHealth
+11000

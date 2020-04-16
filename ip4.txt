@@ -1,0 +1,20 @@
+JPMorgan Chase
+1000
+Home Depot
+700
+Wal-Mart
+7000
+Travelers Companies Inc
+2000
+Nike
+200
+Verizon
+1300
+Caterpillar
+3400
+Coca-Cola
+100
+Goldman Sachs
+1230
+Wal-Mart
+6750

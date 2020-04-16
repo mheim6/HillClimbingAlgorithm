@@ -1,0 +1,20 @@
+Merck
+2500
+IBM
+2000
+Nike
+2000
+Pfizer
+3100
+3M
+2000
+McDonald's
+1500
+Cisco
+2000
+Exxon Mobil
+1000
+Caterpillar
+5000
+Boeing
+1100

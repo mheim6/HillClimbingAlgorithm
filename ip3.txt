@@ -1,0 +1,20 @@
+Johnson & Johnson
+700
+3M
+100
+Visa
+17000
+Procter & Gamble
+300
+American Express
+2400
+Merck
+1550
+United Technologies
+750
+Intel
+1000
+Disney
+5100
+Dow Chemical
+1100

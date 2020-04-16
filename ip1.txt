@@ -1,0 +1,20 @@
+Microsoft
+20
+IBM
+20
+Intel
+20
+Apple
+20
+3M
+20
+Merck
+15
+Cisco
+20
+Home Depot
+10
+Visa
+50
+Wal-Mart
+10
